@@ -399,8 +399,8 @@ footer
 
 .featured-image{
     display: flex;
-    justify-content: left;
-    align-content: left;
+    justify-content: center;
+    align-content: center;
     min-height: 80vh;
     width: 50%;
 }
@@ -440,7 +440,7 @@ footer
 .about-into
 {
     text-align: justify;
-    font-size: 2cap;
+    font-size: 5mm;
     overflow:hidden /* Set the text direction to right-to-left for proper justification */
 }
 
@@ -462,6 +462,11 @@ footer
     margin:30px auto 0 auto;
     position:relative;
     max-width:1000px
+}
+
+#experience-timeline p
+{
+    text-align: justify;
 }
 
 #experience-timeline:before
@@ -613,6 +618,11 @@ footer
     font-size:0.9em
 }
 
+.education-block p
+{
+    text-align: justify;
+}
+
 .education-block ul
 {
     padding:0 0 0 15px
@@ -629,6 +639,11 @@ footer
 {
     color:#374054;
     margin-bottom:50px
+}
+
+#projects p
+{
+    text-align: justify;
 }
 
 .project
