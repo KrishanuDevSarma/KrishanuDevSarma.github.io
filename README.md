@@ -5,7 +5,7 @@ Welcome to my personal portfolio repository! This repository contains the HTML, 
 ## About Me
 
 I'm Krishanu Dev Sarma, an Indian-based programmer. This portfolio showcases my skills, projects, and experiences. <br>
-View my portfolio [here](https://krishanudevsarma.github.io/)
+View my portfolio [here](https://krishanudevsarma.github.io/).
 
 ## Technologies Used
 
