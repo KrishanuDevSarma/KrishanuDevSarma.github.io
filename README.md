@@ -1,4 +1,3 @@
-```markdown
 # Krishanu Dev Sarma - Portfolio
 
 Welcome to my personal portfolio repository! This repository contains the HTML, CSS, JavaScript, SCSS, and other code files for my portfolio website.
@@ -59,5 +58,4 @@ Feel free to reach out to me if you have any questions or inquiries:
 
 ## License
 
-This project is licensed under the [MIT] - see the [LICENSE.md](LICENSE.md) file for details.
-```
+This project is licensed under the `MIT` - see the [LICENSE.md](LICENSE.md) file for details.
